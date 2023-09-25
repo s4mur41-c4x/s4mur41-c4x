@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4mur41-c4x
-- 👀 I’m interested in pentestng and cybersecurity
+- 👀 I’m interested in pentesting and cybersecurity
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on scripts an similar projects
+- 💞️ I’m looking to collaborate on scripts and similar projects
 - 📫 How to reach me - github
 
 <!---
